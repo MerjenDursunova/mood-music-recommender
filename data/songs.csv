@@ -1,0 +1,25 @@
+song,artist,mood,energy,valence,link
+Blinding Lights,The Weeknd,energetic,0.8,0.6,https://www.youtube.com/watch?v=4NRXx6U8ABQ
+Someone Like You,Adele,calm,0.3,0.4,https://www.youtube.com/watch?v=hLQl3WQQoQ0
+Sunflower,Post Malone,happy,0.7,0.8,https://www.youtube.com/watch?v=ApXoWvfEYVU
+Fix You,Coldplay,sad,0.2,0.3,https://www.youtube.com/watch?v=k4V3Mo61fJM
+Weightless,Ambient,focused,0.1,0.2,https://www.youtube.com/watch?v=UfcAVejslrU
+Levitating,Dua Lipa,happy,0.9,0.7,https://www.youtube.com/watch?v=TUVcZfQe-Kw
+Happy,Pharrell Williams,happy,0.8,0.9,https://www.youtube.com/watch?v=ZbZSe6N_BXs
+Good as Hell,Lizzo,happy,0.8,0.8,https://www.youtube.com/watch?v=SmbmeOgWsqE
+
+Let Her Go,Passenger,sad,0.1,0.1,https://www.youtube.com/watch?v=RBumgq5yVrA
+All I Want,Kodaline,sad,0.2,0.2,https://www.youtube.com/watch?v=mtf7hC17IBM
+Stay With Me,Sam Smith,sad,0.3,0.3,https://www.youtube.com/watch?v=pB-5XG-DbAA
+
+Eye of the Tiger,Survivor,energetic,0.9,0.6,https://www.youtube.com/watch?v=btPJPFnesV4
+Stronger,Kanye West,energetic,0.8,0.5,https://www.youtube.com/watch?v=PsO6ZnUZI0g
+Titanium,David Guetta,energetic,0.7,0.6,https://www.youtube.com/watch?v=JRfuAukYTKg
+
+Perfect,Ed Sheeran,calm,0.4,0.5,https://www.youtube.com/watch?v=2Vv-BfVoq4g
+Photograph,Ed Sheeran,calm,0.3,0.4,https://www.youtube.com/watch?v=nSDgHBxUbVQ
+Ocean Eyes,Billie Eilish,calm,0.2,0.3,https://www.youtube.com/watch?v=viimfQi_pUw
+
+Experience,Ludovico Einaudi,focused,0.1,0.2,https://www.youtube.com/watch?v=hN_q-_nGv4U
+Time,Hans Zimmer,focused,0.2,0.3,https://www.youtube.com/watch?v=RxabLA7UQ9k
+Daydreaming,Instrumental,focused,0.1,0.2,https://www.youtube.com/watch?v=1ZYbU82GVz4
