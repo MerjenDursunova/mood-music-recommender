@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "a8936b09f41ce919f55ce6ae3966f574"
+API_KEY = "YOUR_OPENWEATHERMAP_API_KEY"  # Replace with your OpenWeatherMap API key
 
 def get_weather(city="Seoul"):
     try:

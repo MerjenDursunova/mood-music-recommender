@@ -8,8 +8,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID", "372de103b565467bbc58f2ee51e44c12")
-CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET", "f851abc61c8440e9978b2af8a554dfaa")
+CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID", "YOUR_SPOTIFY_CLIENT_ID")  # Replace with your Spotify Client ID
+CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET", "YOUR_SPOTIFY_CLIENT_SECRET")  # Replace with your Spotify Client Secret
 
 def get_spotify_client():
     try:
